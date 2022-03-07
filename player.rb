@@ -18,5 +18,5 @@ class Player
     def wins
       "#{name} wins with a score of #{lives}/3"
     end
-  
+
   end
